@@ -1,0 +1,46 @@
+
+.first{
+    padding:60px;
+    padding-top: 150px;
+    font-size: large;
+    font-weight: 200;
+    margin: auto;
+    font-size: large;
+    text-decoration: none;
+}
+ 
+.nav{
+    margin-left: -20px;
+}
+
+
+
+span{
+    font-family: cursive; 
+    font-style: bold;
+}
+
+.aaa{
+    text-decoration: none;
+
+}
+
+.class{
+ 
+    background: blue;
+    border-radius:20%;
+    display:inline-block;
+    color:white;
+    cursor: pointer;
+    font-size:0.75rem;
+    line-height: 90px;
+    text-align: center;
+
+
+   
+}
+.div{
+    text-align: center;
+    line-height: 40px;
+}
+
